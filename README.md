@@ -1,5 +1,5 @@
-A basic optimization toolbox written in Matlab as a class project as
-an instructional exercise.
+A basic non-linear convex optimization toolbox written in Matlab as a
+class project as an instructional exercise.
 
 Like cryptography getting the details right in computational
 optimization is tricky and this library doesn't try to do that. Use an
